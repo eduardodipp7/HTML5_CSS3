@@ -32,30 +32,3 @@
     font-weight: bold;
     border-bottom: 1px solid #CCC;
 }
-
-.radius {
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-}
-
-.btn{
-    padding: 8px 20px;
-    font-weight: normal;
-    margin: 0 4px;
-    text-decoration: none;
-    border-radius: 8px;
-}
-
-.btn:hover{
-    cursor: pointer;
-}
-
-.btn_green{
-    background-color: green;
-    color: #FFF;
-}
-
-.btn_green:hover{
-    background-color: aqua;
-}
