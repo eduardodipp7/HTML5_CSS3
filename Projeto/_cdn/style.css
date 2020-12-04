@@ -498,3 +498,29 @@
     background-color: #2D3142;
     color: #FFFFFF;
 }
+
+.main_optin_footer{
+    width: 100%;
+    background-color: #EBEBEB;
+}
+
+.main_optin_footer_content{
+    max-width: 1300px;
+    padding: 40px 0;
+    text-align: center;
+    color: #333333;
+}
+
+.main_optin_footer_content h1{
+    font-size: 1.4em;
+    margin-bottom: 40px;
+}
+
+.main_optin_footer_content .btn{
+    color: #FFFFFF;
+    background-color: #D36833;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 10px 20px;
+}
