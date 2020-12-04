@@ -501,7 +501,7 @@
 
 .main_optin_footer{
     width: 100%;
-    background-color: #EBEBEB;
+    background-color: #F7F7F7;
 }
 
 .main_optin_footer_content{
@@ -562,4 +562,15 @@
 
 .main_footer > article ul li a:hover{
     text-decoration: underline;
+}
+
+.main_footer_rights{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #F7F7F7;
+    border-top: 1px solid #EBEBEB;
+    font-size: 0.9em;
+    color: #666;
+    font-weight: 400;
 }
